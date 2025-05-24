@@ -6,6 +6,7 @@ Usn: Pengemudisumatra | Key: 1111 | Exp: 01/01/3000
 
 -- Free (Premium) user
 Usn: DanzzRBX | Key: zAkSaxmz | Exp: 01/01/3000
+Usn: jararuok | Key: zAkSaxmz | Exp: 01/01/3000
 
 -- Buyer Ingame
 Usn: sevshtz | Key: jxXepQ5XR | Exp: 1/04/2025 12:57
@@ -13,6 +14,7 @@ Usn: sevshtz | Key: jxXepQ5XR | Exp: 1/04/2025 12:57
 -- Nbuy User
 Usn: Henclin | Nbuy: true
 Usn: DanzzRBX | Nbuy: true
+Usn: jararuok | Nbuy: true
 
 -- Note User
 Usn: ATHONKGAMING | Key: ucNXxhceLy | Note: JAWA JAWA JAWA
